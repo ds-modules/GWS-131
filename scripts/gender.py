@@ -1,6 +1,7 @@
 from nltk.corpus import names
 from nltk import NaiveBayesClassifier
 import random
+import nltk
 
 nltk.download('names')
 
