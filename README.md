@@ -7,6 +7,4 @@ Modules Team: Sierra Park, Sujude Dalieh, Niharika Jain, Noah Alcus, Makena Schw
 
 [Lesson Slides](https://docs.google.com/a/berkeley.edu/presentation/d/115Mtp4Ks20CZ288GaV9jXDXp0ClGAg5pDvSKoDdZO-4/edit?usp=sharing)
 
-[Notebook 1](http://datahub.berkeley.edu/user-redirect/interact?account=ds-modules&repo=GWS-131&branch=master&path=01-Intro.ipynb)
-
-[Notebook 2](http://datahub.berkeley.edu/user-redirect/interact?account=ds-modules&repo=GWS-131&branch=master&path=02-Analysis.ipynb)
+[Notebook](http://datahub.berkeley.edu/user-redirect/interact?account=ds-modules&repo=GWS-131&branch=master&path=01-GWS-Notebook.ipynb)
